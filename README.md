@@ -1,7 +1,3 @@
-# MarsRover
-An implementation of the MarsRover coding challenge
-
-
 Mars Rovers
 ===========
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars. This plateau, which is curiously rectangular, 
